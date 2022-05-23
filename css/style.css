@@ -29,8 +29,12 @@
 
 thead {
     background-color: rgba(0, 162, 255, 0.851);
-    height: 5px;
-    font color: rgba (100, 39, 38, 0.6);
+    height: 1px;
+    
+}
+.intestazione-tabella {
+
+    height: 10%;
 }
 
 .righe-dispare {
@@ -38,5 +42,12 @@ background-color: rgb(5, 243, 243);
     
 }
 
+.p-standard {
+    font-size: smaller;
+}
+
+.photo-credits {
+    font-size: smaller;
+}
 
 
