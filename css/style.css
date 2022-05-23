@@ -32,6 +32,7 @@ thead {
     height: 1px;
     
 }
+
 .intestazione-tabella {
 
     height: 10%;
@@ -51,3 +52,22 @@ background-color: rgb(5, 243, 243);
 }
 
 
+.paragrafo-1 {
+    font-size: small;
+}
+
+li{
+    font-size: small;
+}
+
+table{
+    font-size: small;
+}
+
+.paragrafo-2 {
+    font-size: small;
+}
+
+.paragrafo-3{
+    font-size: small;
+}
