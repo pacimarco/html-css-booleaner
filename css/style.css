@@ -81,3 +81,34 @@ body {
     margin: auto; 
     position: relative;
 }
+.img-1-fondo {
+    width: 300px;
+    height: 250px;
+    background-image: url(../img/monitor.jpg);
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p-img-1-fondo {
+    position: relative;
+    color: blanchedalmond;
+    top: 30px;
+    font-size: medium;
+}
+
+.img-2-fondo {
+    width: 300px;
+    height: 250px;
+    background-image: url(../img/graph.jpg);
+    background-size: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.p-img-2-fondo {
+    position: relative;
+    color: blanchedalmond;
+    top: 30px;
+    font-size: medium;
+}
