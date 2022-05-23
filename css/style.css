@@ -17,15 +17,26 @@
 }
 
 .autore {
-    color: rgba(0, 255, 255, 0.993);
+    color: rgba(0, 162, 255, 0.851);
 
 }
 
 .evidenziatore-giallo {
-    color: rgb(235, 231, 4);
+     background-color: rgb(235, 231, 4);
+
 }
 
 
+thead {
+    background-color: rgba(0, 162, 255, 0.851);
+    height: 5px;
+    font color: rgba (100, 39, 38, 0.6);
+}
+
+.righe-dispare {
+background-color: rgb(5, 243, 243);
+    
+}
 
 
 
