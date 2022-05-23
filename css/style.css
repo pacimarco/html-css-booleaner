@@ -35,7 +35,7 @@ thead {
 
 .intestazione-tabella {
 
-    height: 10%;
+    text-align: left;
 }
 
 .righe-dispare {
@@ -73,7 +73,7 @@ table{
 }
 
 .lorem-list {
-    f
+    text-align: left;
 }
 
 body {
