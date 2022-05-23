@@ -29,7 +29,7 @@
 
 thead {
     background-color: rgba(0, 162, 255, 0.851);
-    height: 1px;
+    size: 10px;
     
 }
 
@@ -70,4 +70,14 @@ table{
 
 .paragrafo-3{
     font-size: small;
+}
+
+.lorem-list {
+    f
+}
+
+body {
+    width: 90%;
+    margin: auto; 
+    position: relative;
 }
