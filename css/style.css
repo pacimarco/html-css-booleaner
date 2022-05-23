@@ -11,9 +11,10 @@
     position: relative;
     top: 50px;
 }
-
+/* non riesco a modificare le due foto vicine per l'intero spazio di pagina */
 .titolo {
     width: 100%;
+    
 }
 
 .autore {
@@ -75,12 +76,21 @@ table{
 .lorem-list {
     text-align: left;
 }
-
+/* non riesco a modificare le grandezze di body o main*/
 body {
     width: 90%;
+    height: 50%;
+    size: 50%;
     margin: auto; 
     position: relative;
 }
+/* non riesco a modificare le grandezze di body o main*/
+main {
+
+    size: 60%;
+    height: 60%;
+}
+
 .img-1-fondo {
     width: 300px;
     height: 250px;
